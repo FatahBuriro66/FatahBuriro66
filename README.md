@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [E Commerce](https://github.com/FatahBuriro66/ECommerce)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **MERN Stack Developement**
 
-- 💬 Ask me about **JavaScript,React JS and Backend Techs**
+- 💬 Ask me about **MongoDB ExpressJS ReactJS and NodeJS**
 
 - 📫 How to reach me **fatahburiro66@gmail.com**
 
-- ⚡ Fun fact **I think I am Okay**
+- ⚡ Fun fact **Thinking as much as 20 minutes can help reduce stress and improve problem-solving skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
